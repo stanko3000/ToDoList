@@ -1,0 +1,26 @@
+body{
+    background: lightgrey;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+.btn{
+    background: lightskyblue;
+    margin: 20px;
+}
+
+.add-btn{
+    background: lightblue;
+    width: 40px;
+    height: 40px;
+}
+.app-title{
+    text-align: center;
+    color: royalblue;
+    font-size: 70px;
+}
+.container{
+    border: 5px solid royalblue;
+    border-radius: 25px;
+
+}
