@@ -1,0 +1,32 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    background-image: url( 'blob-scene-haikei.svg' );
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.btn{
+    background: lightskyblue;
+    margin: 20px;
+}
+
+.add-btn{
+    background: lightblue;
+    width: 40px;
+    height: 40px;
+}
+.app-title{
+    text-align: center;
+    color: #FBAE3C;
+    font-size: 70px;
+}
+.container{
+
+    border-radius: 25px;
+
+}
+li{
+
+ color: rgb(245, 135, 78);
+}
